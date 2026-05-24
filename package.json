@@ -1,0 +1,11 @@
+{
+  "name": "solana-svm-rollup-sequencer",
+  "version": "1.0.0",
+  "description": "Custom SVM Rollup Sequencer transaction batching framework",
+  "main": "sequencer.js",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
